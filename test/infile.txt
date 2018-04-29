@@ -1,0 +1,4 @@
+test/t1.js
+test/t2.js
+test/t1.css
+test/t2.css
